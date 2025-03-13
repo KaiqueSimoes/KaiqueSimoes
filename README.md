@@ -14,7 +14,7 @@
 </div>
 
 
-## Linguagens de programação
+## Linguagens que eu uso no meu dia a dia
 
 <div style="display: inline-block;">
   <br>
